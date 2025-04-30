@@ -1,0 +1,14 @@
+{
+    "name": "dongjakOD",
+    "volume_test": "/STDN/data/ciel/djOD_volume_cur1.npz",
+    "flow_test": "/STDN/data/ciel/djOD_flow_cur1.npz",
+    "volume_train_max": 492.0,
+    "volume_test_max": 467.0,
+    "flow_train_max": 214.0,
+    "flow_test_max": 181.0,
+    "timeslot_sec": 1800,
+    "threshold_": 10,
+    "batch_size": 4,
+    "gpu": 0,
+    "model_path": "/STDN/checkpoints/2025-03-12/STDN_dongjakOD_057_0.033.pth"
+}
