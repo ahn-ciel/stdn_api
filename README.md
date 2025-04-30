@@ -4,6 +4,10 @@ ip: 211.115.111.56 (bak.ciel.co.kr)<br>
 - 데이터가 있는 경로<br>
   F:\RND_DATA\Ahn_Data\STDN_API<br>
 
+## api
+server_infer_demand.py : 수요예측 추론 api<br>
+server_train_demand.py : 수요예측 학습 api<br>
+
 ## STDN용 동작구 마을버스 OD 데이터 처리 가이드
 
 본 저장소는 STDN (Spatio-Temporal Dynamic Network) 모델에 적용 가능한 동작구 마을버스 OD 데이터를 전처리하고 변환하는 전체 파이프라인을 제공함.<br>
