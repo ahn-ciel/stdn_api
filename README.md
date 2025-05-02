@@ -3,6 +3,7 @@ Test Backup DB 에 접속해서 데이터를 가져와야 함<br>
 ip: 211.115.111.56 (bak.ciel.co.kr)<br>
 - 데이터가 있는 경로<br>
   F:\RND_DATA\Ahn_Data\STDN_API<br>
+- 데이터 다운로드 후, 경로(stdn_api/data)에 두고 실행 할 것<br>  
 
 ## api
 server_infer_demand.py : 수요예측 추론 api<br>
