@@ -7,6 +7,7 @@ ip: 211.115.111.56 (bak.ciel.co.kr)<br>
 ## api
 server_infer_demand.py : 수요예측 추론 api<br>
 server_train_demand.py : 수요예측 학습 api<br>
+- 실행 : (예시) fastapi dev server_infer_demand.py
 
 ## STDN용 동작구 마을버스 OD 데이터 처리 가이드
 
